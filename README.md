@@ -6,19 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpathak-devops&label=Profile%20views&color=0e75b6&style=flat" alt="amanpathak-devops" /> </p>
 
-- 🔭 I’m currently working on [Terraform-for-AWS](https://github.com/AmanPathak-DevOps/Terraform-for-AWS)
+- 🔭 I’m currently working on Windows IIS Server.
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 📝 I regularly write articles on [https://amanpathakdevops.medium.com](https://amanpathakdevops.medium.com)
+- 💬 Ask me about **DevOps, Cloud Computing (AWS), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Cybersecurity, Web Services, MongoDB, MySQL, SQL, React.js, HTML, CSS, Java, C++, Data Structures, C (Programming Language)**
 
-- 💬 Ask me about **DevOps, Cloud Computing (AWS, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Cybersecurity, Web Services, MongoDB, MySQL, SQL, React.js, HTML, CSS, Java, C++, Data Structures, C (Programming Language)**
-
-- 📫 How to reach me **aman.pathk23@gmail.com**
+- 📫 How to reach me **lalittembharea@gmail.com**
 
 - ⚡ Fun fact **I am Extrovert**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aman-devops](https://www.linkedin.com/in/aman-devops)
+- 📄 Know about my experiences [https://www.linkedin.com/in/lalittembhare11/](https://www.linkedin.com/in/lalittembhare11/)
 
 ### Blogs posts
 <a href="https://amanpathakdevops.medium.com" target="_blank">Aman Pathak On Medium</a> 
